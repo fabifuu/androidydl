@@ -66,14 +66,14 @@ echo -e $Y $L "Creating youtube-dl config..." $N
 sleep 1.5
 
 echo -e $Y $L "Getting config file..." $N
-		wget https://raw.githubusercontent.com/shukryshuk/androidydl/master/config -P /data/data/com.termux/files/home/.config/youtube-dl
+		wget https://raw.githubusercontent.com/fabifuu/androidydl/master/config -P /data/data/com.termux/files/home/.config/youtube-dl
 
 echo -e $Y $L "Creating bin folder..." $N
 		mkdir ~/bin
 sleep 1.5
 
 echo -e $Y $L "Getting files..." $N
-		wget https://raw.githubusercontent.com/shukryshuk/androidydl/master/termux-url-opener -P /data/data/com.termux/files/home/bin
+		wget https://raw.githubusercontent.com/fabifuu/androidydl/master/termux-url-opener -P /data/data/com.termux/files/home/bin
 		clear
 		
 echo -e $Y $L "Finishing configuration..." $N
