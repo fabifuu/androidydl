@@ -7,7 +7,7 @@ This script let you automatically download mp3 version of youtube videos instead
 2. Open termux
 3. Paste this command
 
-  termux-setup-storage ; curl -s -L https://raw.githubusercontent.com/fabifuu/androidydl/master/youtubedl.sh | bash
+  ``termux-setup-storage ; curl -s -L https://raw.githubusercontent.com/fabifuu/androidydl/master/youtubedl.sh | bash``
 
 4. Click enter. Wait until installation is complete.
 5. Open YouTube and open your favorite music videos or whatever.
